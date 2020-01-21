@@ -10,7 +10,7 @@ Specific topics include: Inheritance, Polymorphism, Dynamic Memory Management, O
 This repo is a complete composite of the weekly labs that I did for this class.
 
 ## Weekly Assignments
-* [Week 1: bankAccount Class](/home/vsonline/workspace/Assignments/Week1)
+* [Week 1: bankAccount Class](#)
 * [Week 2: Inheritance](#)
 * [Week 3: Polymorphism](#)
 * [Week 4: Overloading](#)
